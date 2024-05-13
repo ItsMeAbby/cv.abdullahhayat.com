@@ -10,7 +10,7 @@ import { Link } from "./components";
 
 export const data = {
   name: "Muhammad Abdullah Hayat",
-  position: "Artificial Intelligence Engineer",
+  position: "AI Engineer",
   links: [
     {
       name: "Email",
