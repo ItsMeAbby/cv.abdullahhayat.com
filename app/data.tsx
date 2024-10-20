@@ -2,6 +2,7 @@ import {
   IconMail,
   IconBrandGithub,
   IconBrandLinkedin,
+  IconPhone,
   // IconGlobe,
   // IconBrandUpwork,
   // IconBrandX,
@@ -33,7 +34,7 @@ export const data = {
   ],
 
   summary:
-    "I am an AI engineer with 3+ years of experience and a proven track record in developing AI and LLM/RAG based solutions for global organizations. I have a strong background in Python, Deep Learning, Computer Vision, and NLP and currently looking for a full-time high impact technical role.",
+    "I am an AI engineer with 3+ years of experience and a proven track record in developing AI and LLM/RAG based solutions for global organizations. I have a strong background in Python, Deep Learning, Computer Vision, and NLP and currently looking for a high impact technical role.",
 
   experience: [
     {
@@ -77,11 +78,17 @@ export const data = {
 
   education: [
     {
+      institution: "Hochschule Fulda; University of Applied Sciences",
+      location: "Fulda, Hesse, Germany",
+      degree: "Master of Science in Data Science",
+      period: "Oct 2024 - Current",
+    },
+    {
       institution: "NED University of Engineering and Technology",
       location: "Karachi, PK",
       degree: "Bachelor of Engineering in Software. (CGPA: 3.65)",
       period: "Oct 2018 - Oct 2022",
-    },
+    }
   ],
 
   // activities: [
@@ -148,10 +155,10 @@ export const data = {
       // details: ["JavaScript, TypeScript, SQL, C, C++, Python."],
       details: ["Python, Javascript, SQL, C, C++."],
     },
-    {
-      title: "Front-end Technologies",
-      details: ["HTML, CSS, ReactJS, Tailwind CSS."],
-    },
+    // {
+    //   title: "Front-end Technologies",
+    //   details: ["HTML, CSS, ReactJS, Tailwind CSS."],
+    // },
     {
       title: "Back-end Technologies",
       details: ["Flask, FastAPI, NodeJS."],
